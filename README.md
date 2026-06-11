@@ -1,2 +1,2 @@
 # Versionamento
-Repositório do trabalho Bimestral de versionamento no Github
+Repositório de versionamento Github
